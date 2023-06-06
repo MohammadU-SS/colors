@@ -1,0 +1,11 @@
+.tall_col{
+  flex-grow : 1;
+}
+
+.wrapper{
+  height: 95vh;
+}
+
+.body{
+  height: 100%;
+}
